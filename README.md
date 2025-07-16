@@ -9,7 +9,7 @@ For the latest Melissa County ZIP Code release notes, please visit:
 ## Tested Environments
 - Windows 11 64-bit .NET Runtimes 8.0, Powershell 5.1
 - Ubuntu Linux 22.04.3 LTS 64-bit .NET 8.0
-- Melissa County ZIP Code for 2025-06
+- Melissa County ZIP Code for 2025-07
 
 ## Getting started
 
