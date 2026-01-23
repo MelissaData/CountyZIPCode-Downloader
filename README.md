@@ -2,7 +2,7 @@
 
 This is the script that downloads County ZIP Code for you to use.
 
-For the latest Melissa County ZIP Code release notes, please visit:
+To view the latest Melissa County ZIP Code release notes or to subscribe to product notifications, please visit:
 - https://releasenotes.melissa.com/reference-data/county-zip-code/
 
 
